@@ -1,0 +1,42 @@
+        .container-body {
+        	background-color: #fff;
+        	-moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+            -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+          	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+          	margin-top: 20px;
+        }
+       
+		.label-header {
+			color: white;
+			font-size: 25px;
+			margin-top: 10px;
+			font-family: 'Roboto', sans-serif;
+		}
+		.left-modal {
+			margin: 10px 20px 0px 10px;
+		}
+		.right-modal {
+			margin: 10px 20px 0px 10px;
+		}
+		.right-modal > .checkbox > label {
+			margin: 5px 20px 5px 0px;
+		}
+     
+        .logout-account {
+            color:white;
+            margin-top: 20px;
+        }
+
+        .logout-account:hover{
+            cursor: pointer;
+        }
+        .table-game-key {
+        	border-top: 4px solid #3c8dbc;
+        }
+        .table{
+            white-space: nowrap;
+            overflow-y: scroll;
+            height: 10px;
+        }
+
+        
